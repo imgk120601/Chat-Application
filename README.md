@@ -1,4 +1,4 @@
-#COL334_ASSIGNMENT-2
+# Chat Application
 
 #First go the folder where all this file is present
 
